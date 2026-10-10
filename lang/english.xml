@@ -2148,7 +2148,7 @@
 			<Text>Petén Expedition</Text>
 		</Replace>
 		<Replace Tag="LOC_GOV_PROMO_LIME_TEO_OWL_EMISSARY_EXPEDITION_DESC" Language="en_US"> <!-- R1 -->
-			<Text>+10 [ICON_STRENGTH] Combat Strength for this City-state's garrison.</Text>
+			<Text>This City receives +5 [ICON_STRENGTH] Combat Strength when defending.</Text>
 		</Replace>
 		<Replace Tag="LOC_GOV_PROMO_LIME_TEO_OWL_EMISSARY_OVERSEER_NAME" Language="en_US"> <!-- R2 -->
 			<Text>Assault on Uaxactun</Text>
@@ -2166,7 +2166,7 @@
 			<Text>Overseer of Kings</Text>
 		</Replace>
 		<Replace Tag="LOC_GOV_PROMO_LIME_TEO_OWL_EMISSARY_HEGEMONY_DESC" Language="en_US"> <!-- M3 -->
-			<Text>+2 [ICON_FAVOR] Diplomatic Favor per City-state  you are Suzerain of.</Text>
+			<Text>+2 [ICON_FAVOR] Diplomatic Favor per City-state  you are Suzerain of. Affects all players.</Text>
 		</Replace>
 
 		<!-- == Ibrahim == -->
