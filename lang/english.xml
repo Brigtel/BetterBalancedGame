@@ -2298,7 +2298,7 @@
 			<Text>+2 [ICON_GOLD] Gold per turn for each [ICON_CITIZEN] Citizen in the city and +1 [ICON_TRADEROUTE] Trade Route capacity while established in any city.</Text>
 		</Replace>
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_DESCRIPTION" Language="en_US">
-			<Text>Allows the city to purchase districts with [ICON_GOLD] Gold. 50% [ICON_GOLD] Gold discount on purchasing buildings and support units in the city.</Text>
+			<Text>Allows the city to purchase districts with [ICON_GOLD] Gold. 50% [ICON_GOLD] Gold discount on purchasing support units in the city. 50% [ICON_GOLD] Gold and [ICON_FAITH] Faith discount on purchasing buildings in the city.</Text>
 		</Replace>	
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_INVESTOR_NAME" Language="en_US">
 			<Text>Foreign Exchange</Text>
