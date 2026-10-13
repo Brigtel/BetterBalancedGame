@@ -1332,6 +1332,10 @@
 		<Replace Tag="LOC_TRAIT_LEADER_NADER_SHAH_DESCRIPTION" Language="en_US">
 			<Text>+5 [ICON_STRENGTH] Combat Strength when attacking Defensible Districts and full health Units.[NEWLINE][NEWLINE]Receive +1 [ICON_SCIENCE] Science for domestic Trade Routes, and an additional +2 [ICON_SCIENCE] Science with Education and Scientific Theory.</Text>
 		</Replace>
+		<!-- = unique unit = -->
+		<Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION" Language="en_US">
+			<Text>Persian unique melee unit that replaces the Swordsman.[NEWLINE][NEWLINE]Melee class unit with a ranged attack, [ICON_RANGE]Range 1. Strong defense strength.</Text>
+		</Replace>
 		<!-- = unique improvement = -->
 		<Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION" Language="en_US">
 			<Text>Persian unique builder improvement unlocked with Early Empire. Cannot be built on Snow tiles, Tundra tiles or Floodplains. Cannot be build next to another Pairidaeza.[NEWLINE][NEWLINE]+1 [ICON_CULTURE] Culture, +2 [ICON_GOLD] Gold, +1 [ICON_HOUSING] Housing.[NEWLINE]+1 [ICON_CULTURE] Culture with Diplomatic Service.[NEWLINE]+1 [ICON_CULTURE] Culture for each adjacent City Center, Holy Site, Campus, and Theater Square.[NEWLINE]+1 [ICON_GOLD] Gold for each adjacent City Center, Commercial Hub, Harbor, and Industrial Zone.[NEWLINE]+1 Appeal to adjacent tiles.[NEWLINE]Provides [ICON_TOURISM] Tourism after researching Flight.</Text>
